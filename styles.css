@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+}
+h1{
+    color:#1A0FFF;  
+}
+img {
+  width:350px;
+  height:250px;
+}
+h1 {
+  font-size: 40px;
+}
+ul {
+  font-size: 25px;
+}
+p {
+  font-size: 17px;
+}
+h2 {
+  font-size: 40px;
+}
+body{
+    background-color:#FF7615;
+}
+
+p {
+    font-family: 'Yusei Magic', sans-serif;
+}
+.list {   
+    color:#fff;
+    background-color:#0F88FF;
+}
+.header {   
+    color:#fff;
+    background-color:#0F88FF;
+}
